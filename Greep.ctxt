@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Greep
+comment0.text=\n\ A\ Greep\ is\ an\ alien\ creature\ that\ likes\ to\ collect\ tomatoes.\n\ \n\ @author\ Sean\ Sullivan\n\ @version\ 0.1\n
+comment1.params=
+comment1.target=Greep()
+comment1.text=\n\ Default\ constructor\ for\ testing\ purposes.\n
+comment2.params=ship
+comment2.target=Greep(Ship)
+comment2.text=\n\ Create\ a\ Greep\ with\ its\ home\ space\ ship.\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=x\ y
+comment4.target=int\ sum(double,\ int)
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\n\ Do\ what\ a\ greep's\ gotta\ do.\n
+comment6.params=
+comment6.target=java.lang.String\ getAuthorName()
+comment6.text=\n\ This\ method\ specifies\ the\ name\ of\ the\ author\ (for\ display\ on\ the\ result\ board).\n
+comment7.params=
+comment7.target=java.lang.String\ getCurrentImage()
+comment7.text=\n\ This\ method\ specifies\ the\ image\ we\ want\ displayed\ at\ any\ time.\ (No\ need\ \n\ to\ change\ this\ for\ the\ competition.)\n
+numComments=8
